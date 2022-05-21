@@ -4,6 +4,25 @@
   
   
   <entry>
+    <title>test commit</title>
+    <link href="/2022/05/21/test-commit/"/>
+    <url>/2022/05/21/test-commit/</url>
+    
+    <content type="html"><![CDATA[<p>hello world!</p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>test</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2022/05/21/hello-world/"/>
     <url>/2022/05/21/hello-world/</url>
